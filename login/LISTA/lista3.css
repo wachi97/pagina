@@ -1,0 +1,15 @@
+
+body{
+    text-align: left;
+    color:black;
+    background: rgb(158, 227, 230);
+}
+ul{
+    text-align: center;
+    border-radius: 20px;
+    background: url('fondo.png');
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 1em 0;
+}
